@@ -1,2 +1,2 @@
 # my-first-binder
-learning Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkfung/my-first-binder/HEAD)
